@@ -14,4 +14,4 @@ Feature: User register
 
     Examples:
         |strName  |strLastName  |strEmail   |strCity    |strCode   |strPassword   |strConfirmPassword  |strEndRegister |
-      |mauricio |Leal |prueba0002@gmail.com |villavicencio  |500001 |Leal.garcia19 |Leal.garcia19 |Welcome to the world's largest community of freelance software testers!|
+      |mauricio |Leal |prueba0003@gmail.com |villavicencio  |500001 |Leal.garcia19 |Leal.garcia19 |Welcome to the world's largest community of freelance software testers!|
